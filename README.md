@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nutthapan
 - 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning Java C++ R HTML Python
+- 🌱 I’m currently learning Angular Spring boots and SQL
 - 💞️ I’m looking to collaborate on You
 - 📫 How to reach me Facebook
   
